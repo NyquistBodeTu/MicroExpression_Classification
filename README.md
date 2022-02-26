@@ -14,7 +14,7 @@
 
 该项目是本人为完成学校课程而创建的，数据集不能公开，在此深表歉意。
 
-但模型文件（MicroExpression.nb）文件有，需要的朋友拿去手机端部署就ok，部署直接看[第五版块](#_5基于Paddle-Lite进行安卓部署)。  
+但模型文件（MicroExpression.nb）文件有，文件在我的AI Studio[微表情](https://aistudio.baidu.com/aistudio/projectdetail/3425078?contributionType=1) 中，需要的朋友拿去手机端部署就ok，部署直接看[第五版块](#_5基于Paddle-Lite进行安卓部署)。  
 
 针对此项目还存在的改进空间，以及这类场景在飞桨框架下的实现，希望大家多交流观点，fork优化，相互关注，共同学习进步[个人主页](https://aistudio.baidu.com/aistudio/usercenter)。
 
